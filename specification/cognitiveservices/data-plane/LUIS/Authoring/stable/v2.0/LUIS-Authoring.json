@@ -17,8 +17,7 @@
     "apiKeyHeader": {
       "type": "apiKey",
       "name": "Ocp-Apim-Subscription-Key",
-      "in": "header",
-      "required": true
+      "in": "header"
     }
   },
   "security": [
